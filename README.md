@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachila67" alt="sachila67" /></a> </p>
 
-- 🔭 I’m currently working on **mart Toilet for the Differently Abled**
+- 🔭 I’m currently working on **Smart Toilet for the Differently Abled**
 
 - 🌱 I’m currently learning **Networking, wireless communication**
 
